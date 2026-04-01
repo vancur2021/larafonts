@@ -61,6 +61,26 @@
   ],
   "emojis": [
     {
+      "name": "NotoColorEmoji",
+      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/emojis/notocoloremoji.ttf",
+      "format": "truetype"
+    },
+    {
+      "name": "OpenMojiBlack",
+      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/emojis/openmojiblack.ttf",
+      "format": "truetype"
+    },
+    {
+      "name": "OpenMojiColor",
+      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/emojis/openmojicolor.ttf",
+      "format": "truetype"
+    },
+    {
+      "name": "OpenSans",
+      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/emojis/opensans.ttf",
+      "format": "truetype"
+    },
+    {
       "name": "Twemoji",
       "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/emojis/twemoji.ttf",
       "format": "truetype"
