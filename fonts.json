@@ -1,88 +1,16 @@
 {
-  "repo_name": "larafonts",
-  "repo_author": "roooot",
-  "repo_icon": "https://github.com/rooootdev.png",
+  "repo_name": "chinese",
+  "repo_author": "vancur2021",
+  "repo_icon": "https://avatars.githubusercontent.com/u/207012240",
   "fonts": [
     {
-      "name": "SFUI",
+      "name": "瑞美加张清平硬笔楷书",
       "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/SFUI.ttf",
       "format": "truetype"
     },
     {
-      "name": "Chococooky",
+      "name": "她屿山海",
       "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/Chococooky.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Comic Sans MS",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/Comic%20Sans%20MS.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "DejaVu Sans Condensed",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/DejaVuSansCondensed.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "DejaVu Sans Mono",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/DejaVuSansMono.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "DejaVu Serif",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/DejaVuSerif.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Fira Sans Regular",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/FiraSans-Regular.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Go Mono",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/Go-Mono.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Go Regular",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/Go-Regular.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "QuickSand",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/QuickSand.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Segoe UI",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/segoeui.ttf",
-      "format": "truetype"
-    }
-  ],
-  "emojis": [
-    {
-      "name": "Noto Color Emoji 🤔",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/emojis/notocoloremoji.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Open Moji Black 🤔",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/emojis/openmojiblack.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Open Moji Color 🤔",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/emojis/openmojicolor.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Open Sans 🤔",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/emojis/opensans.ttf",
-      "format": "truetype"
-    },
-    {
-      "name": "Twemoji 🤔",
-      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/emojis/twemoji.ttf",
       "format": "truetype"
     }
   ]
